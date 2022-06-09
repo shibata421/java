@@ -4,7 +4,7 @@ import java.util.List;
 
 import model.entities.Department;
 
-public interface DepartmentDao {
+public interface DepartmentDAO {
 
 	void insert (Department obj);
 	void update (Department obj);

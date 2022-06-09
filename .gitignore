@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.metadata/
+*.zip
+*.jar
+*.class
+*.bin
+__MACOSX/
+.DS_Store
+.settings/

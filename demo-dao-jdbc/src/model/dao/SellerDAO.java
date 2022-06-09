@@ -5,7 +5,7 @@ import java.util.List;
 import model.entities.Department;
 import model.entities.Seller;
 
-public interface SellerDao {
+public interface SellerDAO {
 
 	void insert (Seller obj);
 	void update (Seller obj);
